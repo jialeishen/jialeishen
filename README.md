@@ -1,7 +1,7 @@
 ### Hey, this is Jialei :earth_americas: 
 
 [![Website Badge](https://img.shields.io/badge/-jialeishen.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=http://jialeishen.com)](http://jialeishen.com)
-[![Gmail Badge](https://img.shields.io/badge/-jshen20@syr.edu-00a2ed?style=flat&logo=Outlook&logoColor=white&link=mailto:jshen20@syr.edu)](mailto:jshen20@syr.edu)
+[![Gmail Badge](https://img.shields.io/badge/-jshen20@syr.edu-00a2ed?style=flat&logo=envelope&logoColor=white&link=mailto:jshen20@syr.edu)](mailto:jshen20@syr.edu)
 
 ![building simulation](https://img.shields.io/badge/-building%20simulation-gray) ![IAQ](https://img.shields.io/badge/-IAQ-gray) ![urban climate](https://img.shields.io/badge/-urban%20climate-gray) ![green building](https://img.shields.io/badge/-green%20building-gray) 
 
