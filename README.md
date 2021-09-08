@@ -1,5 +1,5 @@
 ### Hey, this is Jialei :earth_americas: 
-![building simulation](https://img.shields.io/badge/-building simulation-brightgreen) ![IAQ](https://img.shields.io/badge/-IAQ-blue) ![urban climate](https://img.shields.io/badge/-urban%20climate-lightgreen) ![green building](https://img.shields.io/badge/-green%20building-green) 
+![building simulation](https://img.shields.io/badge/-building%20simulation-darkgray) ![IAQ](https://img.shields.io/badge/-IAQ-blue) ![urban climate](https://img.shields.io/badge/-urban%20climate-lightgreen) ![green building](https://img.shields.io/badge/-green%20building-green) 
 
 I'm a PhD student in Mechanical & Aerospace Engineering at Syracuse University. I'm interested in the research on building energy and environment, indoor air quality, green building, and urban microclimate. Please visit my personal page [jialeishen.com](http://www.jialeishen.com) to know more about me.
 
