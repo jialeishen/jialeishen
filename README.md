@@ -1,7 +1,7 @@
 ### Hey, this is Jialei :earth_americas: 
 
 [![Website Badge](https://img.shields.io/badge/-jialeishen.com-de5246?style=flat&logo=Google-Chrome&logoColor=white&link=http://jialeishen.com)](http://jialeishen.com)
-[![Google Scholar Badge](https://img.shields.io/badge/-Jialei Shen-808080?style=flat&logo=googlescholar&logoColor=white&link=https://scholar.google.com/citations?user=QhhRMTUAAAAJ&hl=en)](https://scholar.google.com/citations?user=QhhRMTUAAAAJ&hl=en)
+[![Google Scholar Badge](https://img.shields.io/badge/-Jialei%20Shen-808080?style=flat&logo=googlescholar&logoColor=white&link=https://scholar.google.com/citations?user=QhhRMTUAAAAJ&hl=en)](https://scholar.google.com/citations?user=QhhRMTUAAAAJ&hl=en)
 [![Email Badge](https://img.shields.io/badge/-jshen20@syr.edu-00a2ed?style=flat&logo=microsoftoutlook&logoColor=white&link=mailto:jshen20@syr.edu)](mailto:jshen20@syr.edu)
 
 I'm a PhD student in Mechanical & Aerospace Engineering at Syracuse University. I'm interested in the research on ![building energy and environment](https://img.shields.io/badge/-building%20energy%20&%20environment-gray), ![IAQ](https://img.shields.io/badge/-indoor%20air%20quality-gray), ![green building](https://img.shields.io/badge/-green%20building-gray), and ![urban climate](https://img.shields.io/badge/-urban%20microclimate-gray). Please visit my personal page [![Website Badge](https://img.shields.io/badge/-jialeishen.com-de5246?style=flat&logo=Google-Chrome&logoColor=white&link=http://jialeishen.com)](http://jialeishen.com) to know more about me.
