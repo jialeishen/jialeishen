@@ -1,4 +1,6 @@
-### Hi there 👋 This is Jialei Shen. I’m currently a PhD student in Mechanical & Aerospace Engineering at Syracuse University.
+#### My personal page: [jialeishen.com](http://www.jialeishen.com)
+
+[![Jialei's github stats](https://github-readme-stats.vercel.app/api?username=jialeishen)](https://github.com/jialeishen/github-readme-stats)
 
 <!--
 **jialeishen/jialeishen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
