@@ -1,7 +1,10 @@
-### Hey, this is Jialei [![Years Badge](https://badges.pufler.dev/years/jialeishen)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/jialeishen)](https://badges.pufler.dev) ![visitors](https://visitor-badge.glitch.me/badge?page_id=jialeishen.visitor-badge)
+### Hey, this is Jialei ![IAQ](https://img.shields.io/badge/-IAQ-blue) ![green building](https://img.shields.io/badge/-green%20building-green)
 
 I'm a PhD student in Mechanical & Aerospace Engineering at Syracuse University. I'm interested in the research on building energy and environment, indoor air quality, green building, and urban microclimate. Please visit my personal page [jialeishen.com](http://www.jialeishen.com) to know more about me.
 
+[![Years Badge](https://badges.pufler.dev/years/jialeishen)](https://badges.pufler.dev) 
+[![Repos Badge](https://badges.pufler.dev/repos/jialeishen)](https://badges.pufler.dev) 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jialeishen.visitor-badge)
 
 [![Jialei's github stats](https://github-readme-stats.vercel.app/api?username=jialeishen&theme=dark)](https://github.com/jialeishen/github-readme-stats)
 
