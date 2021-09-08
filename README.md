@@ -1,6 +1,10 @@
-#### My personal page: [jialeishen.com](http://www.jialeishen.com)
+### Hey, Jialei here 👋
 
-[![Jialei's github stats](https://github-readme-stats.vercel.app/api?username=jialeishen)](https://github.com/jialeishen/github-readme-stats)
+I'm a PhD student in Mechanical & Aerospace Engineering at Syracuse University. I'm interested in the research on building energy and environment, indoor air quality, green building, and urban microclimate. Please visit my personal page [jialeishen.com](http://www.jialeishen.com) to know more about me.
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jialeishen.visitor-badge&left_color=gray&right_color=navy)
+
+[![Jialei's github stats](https://github-readme-stats.vercel.app/api?username=jialeishen&theme=dark)](https://github.com/jialeishen/github-readme-stats)
 
 <!--
 **jialeishen/jialeishen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
