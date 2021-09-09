@@ -4,7 +4,7 @@
 [![Google Scholar Badge](https://img.shields.io/badge/-Google%20Scholar-000000?style=flat&logo=googlescholar&logoColor=white&link=https://scholar.google.com/citations?user=QhhRMTUAAAAJ&hl=en)](https://scholar.google.com/citations?user=QhhRMTUAAAAJ&hl=en)
 [![Email Badge](https://img.shields.io/badge/-jshen20@syr.edu-00a2ed?style=flat&logo=microsoftoutlook&logoColor=white&link=mailto:jshen20@syr.edu)](mailto:jshen20@syr.edu)
 
-I'm a PhD student in Mechanical & Aerospace Engineering at Syracuse University. I'm interested in the research on ![building energy and environment](https://img.shields.io/badge/-building%20energy%20&%20environment-FF713D), ![IAQ](https://img.shields.io/badge/-indoor%20air%20quality-54C0FF), ![green building](https://img.shields.io/badge/-green%20building-48F118), and ![urban climate](https://img.shields.io/badge/-urban%20microclimate-2BE1E4). Please visit my personal page [jialeishen.com](http://jialeishen.com) to know more about me.
+I'm a PhD student in Mechanical & Aerospace Engineering at Syracuse University. I'm interested in the research on **building energy and environment**, **indoor air quality**, **green building**, and **urban microclimate**. Please visit my personal page [jialeishen.com](http://jialeishen.com) to know more about me.
 
 [![Years Badge](https://badges.pufler.dev/years/jialeishen)](https://badges.pufler.dev) 
 [![Repos Badge](https://badges.pufler.dev/repos/jialeishen)](https://badges.pufler.dev) 
