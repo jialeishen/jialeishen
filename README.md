@@ -8,7 +8,7 @@ I'm a PhD student in Mechanical & Aerospace Engineering at Syracuse University. 
 
 [![Years Badge](https://badges.pufler.dev/years/jialeishen?logo=github&color=brightgreen)](https://github.com/jialeishen) 
 [![Repos Badge](https://badges.pufler.dev/repos/jialeishen?logo=github&color=brightgreen)](https://github.com/jialeishen?tab=repositories) 
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=jialeishen.visitor-badge&logo=github&color=brightgreen)](https://github.com/jialeishen)
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=jialeishen.visitor-badge&logo=github&right_color=brightgreen)](https://github.com/jialeishen)
 
 [![Jialei's github stats](https://github-readme-stats.vercel.app/api?username=jialeishen&theme=merko)](https://github.com/jialeishen/github-readme-stats)
 
