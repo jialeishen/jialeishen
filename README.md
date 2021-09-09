@@ -7,8 +7,8 @@
 I'm a PhD student in Mechanical & Aerospace Engineering at Syracuse University. I'm interested in the research on **building energy and environment**, **indoor air quality**, **green building**, and **urban microclimate**. Please visit my personal page [jialeishen.com](http://jialeishen.com) to know more about me.
 
 [![Years Badge](https://badges.pufler.dev/years/jialeishen?logo=github&color=brightgreen)](https://github.com/jialeishen) 
-[![Repos Badge](https://badges.pufler.dev/repos/jialeishen?logo=github)](https://github.com/jialeishen?tab=repositories) 
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=jialeishen.visitor-badge&logo=github)](https://github.com/jialeishen)
+[![Repos Badge](https://badges.pufler.dev/repos/jialeishen?logo=github&color=brightgreen)](https://github.com/jialeishen?tab=repositories) 
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=jialeishen.visitor-badge&logo=github&color=brightgreen)](https://github.com/jialeishen)
 
 [![Jialei's github stats](https://github-readme-stats.vercel.app/api?username=jialeishen&theme=merko)](https://github.com/jialeishen/github-readme-stats)
 
