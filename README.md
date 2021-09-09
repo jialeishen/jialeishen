@@ -12,5 +12,5 @@ I'm a PhD student in Mechanical & Aerospace Engineering at Syracuse University. 
 
 [![Jialei's github stats](https://github-readme-stats.vercel.app/api?username=jialeishen&theme=merko)](https://github.com/jialeishen/github-readme-stats)
 
-[![Jialei's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jialeishen&theme=merko)](https://github.com/jialeishen/github-readme-stats)
+[![Jialei's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jialeishen&layout=compact&theme=merko)](https://github.com/jialeishen/github-readme-stats)
 
