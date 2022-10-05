@@ -5,7 +5,7 @@
 [![Email Badge](https://img.shields.io/badge/-jshen20@syr.edu-00a2ed?style=flat&logo=microsoftoutlook&logoColor=white&link=mailto:jshen20@syr.edu)](mailto:jshen20@syr.edu)
 [![Paypal donate](https://img.shields.io/badge/Paypal-Donate-blue?style=flat&logo=paypal&logoColor=white)](https://www.paypal.com/donate?business=CQHBFK54SJD34&no_recurring=1&currency_code=USD)
 
-I'm a PhD student in Mechanical & Aerospace Engineering at Syracuse University. I'm interested in the research on **building energy and environment**, **indoor air quality**, **green building**, and **urban microclimate**. Please visit my personal page [jialeishen.com](http://jialeishen.com) to know more about me.
+I'm a currently Postdoctoral Research Associate in the Indoor Air Quality and Ventilation Group at NIST. I'm interested in the research on **building energy and environment**, **indoor air quality**, **green building**, and **urban microclimate**. Please visit my personal page [jialeishen.com](http://jialeishen.com) for more information.
 
 [![Years Badge](https://badges.pufler.dev/years/jialeishen?style=flat&logo=github&color=brightgreen)](https://github.com/jialeishen) 
 [![Repos Badge](https://badges.pufler.dev/repos/jialeishen?style=flat&logo=github&color=brightgreen)](https://github.com/jialeishen?tab=repositories) 
