@@ -12,7 +12,7 @@ I'm currently a Postdoctoral Research Associate in the Indoor Air Quality and Ve
 [![GitHub](https://img.shields.io/github/followers/jialeishen?style=flat&logo=github&color=brightgreen)](https://github.com/jialeishen)
 [![Visits](https://visitor-badge.glitch.me/badge?page_id=jialeishen.visitor-badge&style=flat&&logo=github&right_color=brightgreen)](https://github.com/jialeishen)
 
-[![Jialei's github stats](https://github-readme-stats.vercel.app/api?username=jialeishen)](https://github.com/jialeishen/github-readme-stats)
+[![Jialei's github stats](https://github-readme-stats.vercel.app/api?username=jialeishen&theme=merko)](https://github.com/jialeishen/github-readme-stats)
 
 [![Jialei's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jialeishen&layout=compact&theme=merko)](https://github.com/jialeishen/github-readme-stats)
 
