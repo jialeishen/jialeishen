@@ -1,4 +1,4 @@
-### Hey, this is Jialei :earth_americas: 🍊
+### Hey, this is Jialei 🌎🍊
 
 [![Website Badge](https://img.shields.io/badge/-jialeishen.com-de5246?style=flat&logo=Google-Chrome&logoColor=white&link=http://jialeishen.com)](http://jialeishen.com)
 [![Google Scholar Badge](https://img.shields.io/badge/-Google%20Scholar-f4c20d?style=flat&logo=googlescholar&logoColor=white&link=https://scholar.google.com/citations?user=QhhRMTUAAAAJ&hl=en)](https://scholar.google.com/citations?user=QhhRMTUAAAAJ&hl=en)
