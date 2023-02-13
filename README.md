@@ -16,3 +16,7 @@ I'm currently a Postdoctoral Research Associate in the Indoor Air Quality and Ve
 
 [![Jialei's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jialeishen&layout=compact&theme=merko)](https://github.com/jialeishen/github-readme-stats)
 
+[![Jialei's github stats](https://api.vercel.com/v1/integrations/deploy/prj_rDxVUNZ2WHMVrJMfTHpKYzchIBz6/evWgR2IZNe)](https://github.com/jialeishen/github-readme-stats)
+
+
+
