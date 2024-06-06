@@ -7,6 +7,8 @@
 
 I'm currently a Postdoctoral Research Associate in the Indoor Air Quality and Ventilation Group at NIST. I'm interested in the research on **building energy and environment**, **indoor air quality**, **green building**, and **urban microclimate**. Please visit my personal page [jialeishen.com](http://jialeishen.com) for more information.
 
+I'll be joining the University of Alabama at Birmingham as a tenure track Assistant Professor in Fall 2024. There will be two openings for PhD students in my team. Please reach out if you are interested. 
+
 [![Years Badge](https://badges.strrl.dev/years/jialeishen?style=flat&logo=github&color=brightgreen)](https://github.com/jialeishen) 
 [![Repos Badge](https://badges.strrl.dev/repos/jialeishen?style=flat&logo=github&color=brightgreen)](https://github.com/jialeishen?tab=repositories) 
 [![GitHub](https://img.shields.io/github/followers/jialeishen?style=flat&logo=github&color=brightgreen)](https://github.com/jialeishen)
