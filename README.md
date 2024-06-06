@@ -12,7 +12,7 @@ I'll be joining the University of Alabama at Birmingham as a tenure track Assist
 [![Years Badge](https://badges.strrl.dev/years/jialeishen?style=flat&logo=github&color=brightgreen)](https://github.com/jialeishen) 
 [![Repos Badge](https://badges.strrl.dev/repos/jialeishen?style=flat&logo=github&color=brightgreen)](https://github.com/jialeishen?tab=repositories) 
 [![GitHub](https://img.shields.io/github/followers/jialeishen?style=flat&logo=github&color=brightgreen)](https://github.com/jialeishen)
-[![Visits](https://visitor-badge.laobi.icu/badge?page_id=jialeishen.visitor-badge&style=flat&&logo=github&right_color=brightgreen)](https://github.com/jialeishen)
+[![Visits](https://visitor-badge.laobi.icu/badge?page_id=jialeishen.visitor-badge)](https://github.com/jialeishen)
 
 [![Jialei's github stats](https://github-readme-stats.vercel.app/api?username=jialeishen&theme=merko)](https://github.com/jialeishen/github-readme-stats)
 
