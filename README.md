@@ -1,4 +1,4 @@
-### Hey, this is Jialei :earth_americas: :orange: :man_scientist: :guitar: :skateboard:
+### Hey, this is Jialei :earth_americas: :orange: :scientist: :guitar: :skateboard: :telescope: :bird: :ant: :dragon_face:
 
 [![Website Badge](https://img.shields.io/badge/-jialeishen.com-de5246?style=flat&logo=Google-Chrome&logoColor=white&link=http://jialeishen.com)](http://jialeishen.com)
 [![Google Scholar Badge](https://img.shields.io/badge/-Google%20Scholar-f4c20d?style=flat&logo=googlescholar&logoColor=white&link=https://scholar.google.com/citations?user=QhhRMTUAAAAJ&hl=en)](https://scholar.google.com/citations?user=QhhRMTUAAAAJ&hl=en)
@@ -7,7 +7,7 @@
 
 I'm currently a Postdoctoral Research Associate in the Indoor Air Quality and Ventilation Group at NIST. I'm interested in the research on **building energy and environment**, **indoor air quality**, **green building**, and **urban microclimate**. Please visit my personal page [jialeishen.com](http://jialeishen.com) for more information.
 
-I'll be joining the University of Alabama at Birmingham as a tenure track Assistant Professor in Fall 2024. There will be two openings for PhD students in my team. Please reach out if you are interested. 
+I'll be joining the University of Alabama at Birmingham (UAB) as a tenure track Assistant Professor in Fall 2024. There will be two openings for PhD students in my team. Please reach out if you are interested. 
 
 [![Years Badge](https://badges.strrl.dev/years/jialeishen?style=flat&logo=github&color=brightgreen)](https://github.com/jialeishen) 
 [![Repos Badge](https://badges.strrl.dev/repos/jialeishen?style=flat&logo=github&color=brightgreen)](https://github.com/jialeishen?tab=repositories) 
