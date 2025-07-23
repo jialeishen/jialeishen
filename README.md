@@ -5,9 +5,7 @@
 [![Email Badge](https://img.shields.io/badge/shenj@uab.edu-0078D4?style=flat&logo=microsoftoutlook&logoColor=white&link=mailto:shenj@uab.edu)](mailto:shenj@uab.edu)
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jialei-shen/)
 
-I'm a Assistant Professor in Civil, Construction, and Environmental Engineering at the University of Alabama at Birmingham (UAB), where I hold a second appointment in Environmental Health Sciences in the School of Public Health. My research is centered on **indoor air quality**, **environmental health**, **air cleaning technology**, **urban environment**, and **building decarbonization**. Please visit my website [jialeishen.com](https://jialeishen.com) for more information.
-
-**I'm seeking two PhD students to join my research group at UAB in Spring 2025 or Fall 2025. Please reach out if you're interested in my research areas.**
+I'm an Assistant Professor in Civil, Construction, and Environmental Engineering at the University of Alabama at Birmingham (UAB), where I also hold a second appointment in Environmental Health Sciences. My research is centered on **indoor air quality**, **environmental health**, **air cleaning technology**, **urban environment**, and **building decarbonization**. Please visit my website [jialeishen.com](https://jialeishen.com) for more information.
 
 [![Years Badge](https://badges.strrl.dev/years/jialeishen?style=flat&logo=github&color=brightgreen)](https://github.com/jialeishen) 
 [![Repos Badge](https://badges.strrl.dev/repos/jialeishen?style=flat&logo=github&color=brightgreen)](https://github.com/jialeishen?tab=repositories) 
